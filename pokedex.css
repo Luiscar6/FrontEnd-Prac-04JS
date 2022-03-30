@@ -1,0 +1,32 @@
+body{
+    background-image: url(./FondoDex.png);
+    background-repeat: no-repeat ;
+}
+h1 {
+    width: 300px;
+    margin: 160px 0 0 33px;
+    color:rgb(250, 4, 4);
+    padding: 1px;
+    border: 2px solid rgb(155, 155, 160);
+    border-radius: 5px;
+    text-align: center;
+}
+
+#form1{
+    width: auto;
+    margin: 10px 0 0 45px;
+    color:blue;
+    padding: 10px;
+}
+
+#pokeImg{
+    margin:1px 0 0 85px;
+}
+.poke_stats{
+    width: 300px;
+    margin: 1px 0 0 30px;
+    padding: 6px;
+    text-align:justify;
+    border: 2px solid rgb(155, 155, 160);
+    border-radius: 5px;
+}
